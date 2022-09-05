@@ -1,0 +1,24 @@
+01-creat json object
+02- start html 
+03-add dummy data
+04-creat the styling
+05-fetch number of question from json
+06-show question count +question category
+07- show the number of bullets depends on question count
+08-set the number for the right and wrong aanswer
+09- creat countDowen timmer
+10-fetch the question from the json object
+11-show the first question
+12-check answer 
+13- hide question
+14-show the next question
+15-if the time end mark the question as wrong then show next one
+16-add class on bullet after answing the question
+17-if questions finshed show the result
+
+
+
+ideas:
+-many json objects and choose langes
+-ADD MANY QUESTIONS AND CHOSE ONLY 10 RANDOMLY
+-REMDOMLY the answers

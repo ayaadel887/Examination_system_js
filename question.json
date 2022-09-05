@@ -1,0 +1,75 @@
+[
+    {
+        "title":"Inside which HTML element do we put the JavaScript?",
+        "answe_1":"<script>",
+        "answe_2":"<js>",
+        "answe_3":"<scrpting>",
+        "right_answer":"<script>"
+       
+    },
+    {
+       
+        "title":"Where is the correct place to insert a JavaScript?",
+        "answe_1":"the <body> section",
+        "answe_2":"the <head> section",
+        "answe_3":"Both the<body> section and the <head> section are correct",
+        "right_answer":"Both the<body> section and the <head> section are correct"
+        
+    },
+    {
+       
+        "title":"Javascript is an _______ language?",
+        "answe_1":"Object-Oriented",
+        "answe_2":"object-Based",
+        "answe_3":"procedural",
+        "right_answer":"Object-Oriented"
+        
+    },
+    {
+       
+        "title":"Which of the following keywords is used to define a variable in Javascript?",
+        "answe_1":"Var",
+        "answe_2":"let",
+        "answe_3":"Both A and B",
+        "right_answer":"Both A and B"
+        
+    },
+    {
+       
+        "title":"Which of the following methods is used to access HTML elements using Javascript?",
+        "answe_1":"getElementById",
+        "answe_2":"getElementByClassName",
+        "answe_3":"Both of them",
+        "right_answer":"Both of them"
+        
+        
+    },
+    {
+       
+        "title":"Upon encountering empty statements, what does the Javascript Interpreter do?",
+        "answe_1":"Throws an error",
+        "answe_2":"ignores the statements",
+        "answe_3":"Gives a warring",
+        "right_answer":"ignores the statements"
+        
+    },
+    {
+       
+        "title":"Which of the following methods can be used to display data in some form using Javascript?",
+        "answe_1":"document.write",
+        "answe_2":"All of the above"
+        ,"answe_3":"window.alert",
+        "right_answer":"All of the above"
+        
+    },
+    {
+       
+        "title":"How can a datatype be declared to be a constant type?",
+        "answe_1":"const",
+        "answe_2":"var",
+        "answe_3":"constant",
+        "right_answer":"const"
+        
+    }
+    
+]
